@@ -17,4 +17,4 @@ Open the URL shown by Vite (usually http://localhost:5173)
 https://chatgpt.com/c/68c7e9ef-67f0-832d-973a-22307f289c31
 - Level 2: deploy on Vercel if required.(https://search-books-blue.vercel.app/)
 - Level 3: push code to GitHub with an explanatory README.
-(https://github.com/Chimatanagagopal/ChakraX-frontend)
+(https://github.com/Chimatanagagopal/Search-books)
